@@ -1,4 +1,4 @@
-# 🚀 ResumeMatcher
+#  ResumeMatcher
 
 > AI-Powered Resume Analyzer & Cover Letter Generator
 
@@ -9,11 +9,11 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 **ResumeMatcher** is an AI-powered web application that helps job seekers **beat ATS (Applicant Tracking Systems)** and land their dream jobs. It analyzes your resume against job descriptions in real-time, provides an ATS alignment score, identifies missing keywords, suggests optimizations, and generates personalized cover letters—all in seconds.
 
-### ✨ The Problem It Solves
+###  The Problem It Solves
 
 - ❌ Generic rejections without feedback
 - ❌ Resumes not optimized for ATS
@@ -21,17 +21,17 @@
 - ❌ Time-consuming manual cover letter writing
 - ❌ No way to know if your resume matches the job
 
-### ✅ ResumeMatcher Solution
+###  ResumeMatcher Solution
 
-- 📊 **Instant ATS Score** (0-100) with roasting feedback
-- 🎯 **Missing Keywords Analysis** — Know exactly what's missing
-- ✨ **Before/After Suggestions** — Concrete optimization tips
-- ✍️ **AI-Generated Cover Letters** — Personalized in seconds
-- 🔄 **Unlimited Analyses** — Analyze as many JDs as you want
+-  **Instant ATS Score** (0-100) with roasting feedback
+-  **Missing Keywords Analysis** — Know exactly what's missing
+-  **Before/After Suggestions** — Concrete optimization tips
+-  **AI-Generated Cover Letters** — Personalized in seconds
+-  **Unlimited Analyses** — Analyze as many JDs as you want
 
 ---
 
-## 🎯 Features
+##  Features
 
 ### 1. **ATS Alignment Scoring**
 ```
@@ -60,7 +60,7 @@ JD + Resume → AI Analysis → Score (0-100)
 - Professional tone, ready to use
 - One-click copy to clipboard
 
-### 5. **Roasting Feature** 🔥
+### 5. **Roasting Feature** 
 - 20% Funny/sarcastic
 - 70% Brutal/honest
 - 10% Motivational
@@ -193,7 +193,7 @@ JD + Resume → AI Analysis → Score (0-100)
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
 ### **Try It Now!**
 👉 **[Resume Analyzer - Live](https://resume-analyzer-beta-pearl.vercel.app)**
@@ -203,15 +203,15 @@ JD + Resume → AI Analysis → Score (0-100)
 2. Paste your **Resume** (right textarea)
 3. Click **"Analyze & Score Resume"** button
 4. Get instant results:
-   - 📊 ATS Score (0-100 with color-coded feedback)
-   - 🔥 Roast Message (funny but honest feedback)
-   - 📋 Detailed Analysis (missing keywords, suggestions)
-   - ✨ Optimization Tips (before/after improvements)
-   - ✍️ Cover Letter (personalized, ready to use)
+   -  ATS Score (0-100 with color-coded feedback)
+   -  Roast Message (funny but honest feedback)
+   -  Detailed Analysis (missing keywords, suggestions)
+   -  Optimization Tips (before/after improvements)
+   -  Cover Letter (personalized, ready to use)
 
 ---
 
-## 💻 Local Setup
+##  Local Setup
 
 ### **Prerequisites**
 - Node.js 16+ installed
@@ -267,7 +267,7 @@ npm start
 
 ---
 
-## 📊 Performance & Limits
+##  Performance & Limits
 
 ### **Speed**
 | Environment | First Request | Subsequent | Notes |
@@ -292,7 +292,7 @@ Daily Limit: 10-15 full analyses
 
 ---
 
-## 🔄 API Documentation
+##  API Documentation
 
 ### **Endpoint: POST /api/analyze**
 
@@ -348,7 +348,7 @@ curl -X POST http://localhost:5000/api/analyze \
 
 ---
 
-## 💡 How It Works
+##  How It Works
 
 ### **The 3-Phase Process**
 
@@ -391,9 +391,9 @@ Output:
 
 ---
 
-## 🎓 Use Cases
+##  Use Cases
 
-### **For Job Seekers** 👤
+### **For Job Seekers** 
 - Optimize resume for every application
 - Understand ATS compatibility before applying
 - Generate professional cover letters instantly
@@ -401,21 +401,21 @@ Output:
 - Track which JD types score highest
 - Apply 10-15 times per day with optimized materials
 
-### **For Career Coaches** 👨‍🏫
+### **For Career Coaches** 
 - Analyze client resumes objectively
 - Provide data-backed feedback
 - Show clients their ATS scores
 - Identify missing keywords at scale
 - Track improvement over time
 
-### **For Recruiters** 📋
+### **For Recruiters** 
 - Test if job postings are clear
 - Understand candidate-JD fit metrics
 - Improve job description clarity
 - Identify what candidates are missing
 - Better screening criteria
 
-### **For Developers** 💻
+### **For Developers** 
 - Learn full-stack development
 - Understand AI/LLM integration
 - Practice deployment pipelines
@@ -424,7 +424,7 @@ Output:
 
 ---
 
-## 🔐 Privacy & Security
+##  Privacy & Security
 
 ### **Your Data is Safe**
 ```
@@ -494,7 +494,7 @@ ResumeMatcher Impact:
 
 ---
 
-## 🎯 Common Issues & Solutions
+##  Common Issues & Solutions
 
 ### **Issue: "Groq API Key not loaded"**
 **Solution:** Check `.env` file exists and has correct key format
@@ -521,7 +521,7 @@ REACT_APP_API_URL=https://your-backend-url.onrender.com
 
 ---
 
-## 📞 Support & Feedback
+##  Support & Feedback
 
 - **Have Questions?** Open an [issue on GitHub](https://github.com/Nilansh7/ResumeAnalyzer/issues)
 - **Want a Feature?** Start a [discussion](https://github.com/Nilansh7/ResumeAnalyzer/discussions)
@@ -530,19 +530,19 @@ REACT_APP_API_URL=https://your-backend-url.onrender.com
 
 ---
 
-## 👨‍💻 About the Creator
+##  About the Creator
 
 **Nilansh Kumar Singh**
 
 CS Graduate from VIT Chennai | Full-Stack Developer | AI Enthusiast
 
-- 🔗 **GitHub:** [@Nilansh7](https://github.com/Nilansh7)
-- 💻 **LeetCode:** [Nilansh_Singh_07](https://leetcode.com/u/Nilansh_Singh_07/)
-- 💼 **LinkedIn:** [nilansh-kumar-singh](https://www.linkedin.com/in/nilansh-kumar-singh-a12581220/)
+-  **GitHub:** [@Nilansh7](https://github.com/Nilansh7)
+-  **LeetCode:** [Nilansh_Singh_07](https://leetcode.com/u/Nilansh_Singh_07/)
+-  **LinkedIn:** [nilansh-kumar-singh](https://www.linkedin.com/in/nilansh-kumar-singh-a12581220/)
 
 ---
 
-## 📄 License
+##  License
 
 MIT License © 2026 - Feel free to use, modify, and distribute.
 
@@ -553,20 +553,20 @@ of this software to use it for personal and commercial purposes.
 
 ---
 
-## 🌟 Support This Project
+##  Support This Project
 
 If ResumeMatcher helped you land a job:
 
-⭐ **Star this repository** on GitHub  
-🔗 **Share** with your network  
-💬 **Leave feedback** in discussions  
-📢 **Tell others** about it  
+ **Star this repository** on GitHub  
+ **Share** with your network  
+ **Leave feedback** in discussions  
+ **Tell others** about it  
 
-Every share helps more people beat the ATS! 🚀
+Every share helps more people beat the ATS! 
 
 ---
 
-## 🎉 Quick Start Comparison
+##  Quick Start Comparison
 
 ### **Deploy in 5 minutes (Cloud)**
 ```bash
@@ -574,7 +574,7 @@ Every share helps more people beat the ATS! 🚀
 2. Connect Vercel (Frontend) → Auto deploy
 3. Connect Render (Backend) → Auto deploy
 4. Add env vars in dashboard
-5. Live! 🎉
+5. Live! 
 ```
 
 ### **Run Locally (5 minutes)**
@@ -589,7 +589,7 @@ Every share helps more people beat the ATS! 🚀
 
 ---
 
-## 💫 Final Thoughts
+##  Final Thoughts
 
 ResumeMatcher exists because job hunting sucks. Blank rejections suck. Generic feedback sucks.
 
@@ -600,7 +600,7 @@ This tool gives you:
 - ✅ ATS compatibility score
 - ✅ All **completely free**
 
-Now stop reading and **start analyzing!** 🚀
+Now stop reading and **start analyzing!** 
 
 ---
 
